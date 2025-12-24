@@ -3,18 +3,18 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Fitfood B2B - Cơm văn phòng & Tiệc công ty</title>
+    <title> Bếp Lành  - Bữa ăn heathy eatclean </title>
 </head>
 <body>
-    <h1>BẠN MUỐN ĐẶT TIỆC KHAI TRƯƠNG? BẠN MUỐN ĐẶT CƠM VĂN PHÒNG CHO CÔNG TY?</h1>
-    <p>Fitfood mang đến các giải pháp ăn uống tiện lợi, tiết kiệm thời gian cho doanh nghiệp. Giúp bạn chăm sóc sức khỏe, bữa ăn cho nhân viên, đối tác và khách hàng của bạn!</p>
+    <h1> BỮA ĂN LÀNH MẠNH, GIAO ĐẾN TẬN NƠI </h1>
+    <p>Bếp Lành mang đến các giải pháp ăn uống tiện lợi, tiết kiệm thời gian. Giúp bạn chăm sóc sức khỏe chủ động </p>
 
     <h2>4 giải pháp hoàn hảo cho bạn</h2>
     <ul>
         <li><strong>Cơm healthy</strong></li>
         <li><strong>Cơm văn phòng</strong></li>
         <li><strong>Cơm Ready to eat</strong></li>
-        <li><strong>Tiệc teabreak</strong></li>
+        
     </ul>
 
     <h3>1. Cơm healthy</h3>
